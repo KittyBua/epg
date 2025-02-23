@@ -1,2 +1,3 @@
-npm run lint
-npm run channels:lint
+.husky/scripts_lint.sh
+.husky/channels_lint.sh
+.husky/channels_validate.sh
